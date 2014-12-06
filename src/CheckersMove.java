@@ -41,6 +41,6 @@ class CheckersMove {
     return Math.abs(toRow - FromRow)==2;
   }
   
-} // end class CheckersMove.
+} 
 
 
